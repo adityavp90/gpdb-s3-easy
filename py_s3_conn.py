@@ -5,7 +5,7 @@ from boto3.session import Session
 aws_access_key_id = 'KIAIAMTW25DW3X43MNQ'
 aws_secret_access_key = '8U358N+8B4o/c5grRnxd8VtaWBLpsbTh7GD7V7V1'
 
-session = Session(aws_access_key_id='AKIAIAMTW25DW3X43MNQ',aws_secret_access_key='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')
+session = Session(aws_access_key_id='Nah...',aws_secret_access_key='Nah..')
 
 # This snippet below is for listing buckets
 
