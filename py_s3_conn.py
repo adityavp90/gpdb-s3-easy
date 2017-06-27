@@ -2,8 +2,8 @@ import boto3
 from boto3.session import Session
 
 
-aws_access_key_id = 'KIAIAMTW25DW3X43MNQ'
-aws_secret_access_key = '8U358N+8B4o/c5grRnxd8VtaWBLpsbTh7GD7V7V1'
+aws_access_key_id = 'nah'
+aws_secret_access_key = 'nah'
 
 session = Session(aws_access_key_id='Nah...',aws_secret_access_key='Nah..')
 
